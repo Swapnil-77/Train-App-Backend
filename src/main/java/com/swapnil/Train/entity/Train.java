@@ -1,5 +1,5 @@
 
-package com.swapnil.Train.enitity;
+package com.swapnil.Train.entity;
 
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
