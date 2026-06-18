@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/searchh")
+@RequestMapping("/search")
 @CrossOrigin
 public class TrainSearchController {
 
